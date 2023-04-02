@@ -8,6 +8,10 @@
     "start": "node index",
     "dev": "nodemon index"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliiKoshytskyi/goit-node-hw-01-cli.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
